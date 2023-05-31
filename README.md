@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
