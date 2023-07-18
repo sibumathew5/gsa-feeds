@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix OpenVINO links (#7930)
