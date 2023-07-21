@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add new YOLOv8 OBB model metrics (#7379)
