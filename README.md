@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
