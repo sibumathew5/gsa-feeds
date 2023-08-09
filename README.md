@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Update Colab notebook for YOLOv8.1 (#8660)
