@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Elaborate Train and Predict mode docs arguments (#8137)
