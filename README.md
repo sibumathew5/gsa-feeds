@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Cleanup Docs languages (#7865)
