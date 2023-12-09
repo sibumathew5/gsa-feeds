@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update Docs language dropdown height (#6927)
