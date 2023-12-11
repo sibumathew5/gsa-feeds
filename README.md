@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix TypeError in check_cfg() (#9245)
