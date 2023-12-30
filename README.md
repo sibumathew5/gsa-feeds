@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
