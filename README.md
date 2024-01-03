@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
