@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
