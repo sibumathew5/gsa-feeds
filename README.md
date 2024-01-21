@@ -1,1 +1,1 @@
-example Google Colab
+Fix docker.yaml double-quote version bug (#7452)
