@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Optimize function calls to method calls (#8507)
