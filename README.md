@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Docs partial mdformat improvements (#7378)
