@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Model typehints Docker fix (#8306)
