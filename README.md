@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
