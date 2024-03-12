@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix IS_PYTHON_3_12 bug (#9258)
