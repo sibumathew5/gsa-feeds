@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add docs guide terminal images (#8819)
