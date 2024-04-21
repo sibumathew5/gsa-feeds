@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+YOLOv8 INT8 TFLite Inference Example (#7317)
