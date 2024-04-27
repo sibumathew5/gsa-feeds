@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
