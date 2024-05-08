@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
