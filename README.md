@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+New test for labels and crops (#8861)
