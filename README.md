@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Elaborate Train and Predict mode docs arguments (#8137)
