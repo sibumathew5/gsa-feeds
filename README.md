@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
