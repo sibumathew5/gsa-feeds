@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
