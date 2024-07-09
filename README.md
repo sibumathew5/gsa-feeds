@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
