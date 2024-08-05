@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
