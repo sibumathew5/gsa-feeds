@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
