@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add dota8.yaml and O tests (#7394)
